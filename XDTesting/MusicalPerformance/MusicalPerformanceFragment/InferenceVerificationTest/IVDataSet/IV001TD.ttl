@@ -1,4 +1,4 @@
-@prefix td: <https://raw.githubusercontent.com/polifonia-project/musical-performance/main/test/competency-question/toy-dataset/> .
+@prefix td: <https://raw.githubusercontent.com/ownerName/repoName/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/InferenceVerificationTest/IVDataSet/> .
 @prefix mp: <https://w3id.org/polifonia/ontology/musical-performance/> .
 @prefix core: <https://w3id.org/polifonia/ontology/core/> .
 
