@@ -1,6 +1,9 @@
+# The template for documenting a test case
+
+
 | Test case documentation |   Information  |                                                                                                                            
 | ----------------------- | -------------- |
-| Test case ID            |                |                                                                                                                                                                                                                                                    
+| Test case ID            |                |                                                                                                                                                                                                                   
 | Test category           |                |                                                                                                                                                                                                                                       
 | Requirement             |                |                                                                                                                                                                                                              
 | Test                    |                |
