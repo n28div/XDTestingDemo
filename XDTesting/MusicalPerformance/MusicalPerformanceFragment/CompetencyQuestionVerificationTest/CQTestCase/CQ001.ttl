@@ -1,7 +1,7 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
-@prefix ns: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingSession/main/.xd-testing/MusicalPerformance/MusicalPerformanceFragment/mp.owl> .
-@prefix td: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingSession/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/CompetencyQuestionVerificationTest/CQDataSet/> .
-@prefix tc: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingSession/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/CompetencyQuestionVerificationTest/CQTestCase/> .
+@prefix ns: <https://raw.githubusercontent.com/ownerName/repoName/main/.xd-testing/MusicalPerformance/MusicalPerformanceFragment/mp.owl> .
+@prefix td: <https://raw.githubusercontent.com/ownerName/repoName/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/CompetencyQuestionVerificationTest/CQDataSet/> .
+@prefix tc: <https://raw.githubusercontent.com/ownerName/repoName/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/CompetencyQuestionVerificationTest/CQTestCase/> .
 
 tc: a owlunit:CompetencyQuestionVerification ;
 	owlunit:hasCompetencyQuestion "" ;
