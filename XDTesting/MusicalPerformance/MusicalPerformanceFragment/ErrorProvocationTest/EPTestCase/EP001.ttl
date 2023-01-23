@@ -1,8 +1,0 @@
-@prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
-@prefix ns: <https://w3id.org/polifonia/ontology/musical-performance/> .
-@prefix td: <https://raw.githubusercontent.com/ownerName/repoName/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/ErrorProvocationTest/EPDataSet/> .
-@prefix tc: <https://raw.githubusercontent.com/ownerName/repoName/main/XDTesting/MusicalPerformance/MusicalPerformanceFragment/ErrorProvocationTest/EPTestCase/> .
-
-tc: a owlunit:ErrorProvocation ;
-	owlunit:hasInputData td: ;
-	owlunit:testsOntology ns: .
