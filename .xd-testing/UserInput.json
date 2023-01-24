@@ -1,0 +1,9 @@
+{
+  "ontologies": [
+    {
+      "url": "https://w3id.org/polifonia/ontology/musical-performance/",
+      "name": "MusicalPerformance",
+      "userDefined": true
+    }
+  ]
+}
